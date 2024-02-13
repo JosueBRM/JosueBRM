@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **josueb.rangel.montiel@gmail.com**
 
-- ⚡ Fun fact **I think that I learn fast sometimes**
+- ⚡ Fun fact **I think I learn fast sometimes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
