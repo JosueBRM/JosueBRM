@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benji</h1>
-<h3 align="center">A passionate frontend developer from Torreon, Coahuila, Mexico</h3>
+<h3 align="center">A passionate Software Engineer from Torreon, Coahuila, Mexico</h3>
 
 - 🌱 I’m currently learning **React**
 
