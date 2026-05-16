@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Benji</h1>
 <h3 align="center">A passionate Software Engineer from Torreon, Coahuila, Mexico</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python/AI**
 
-- 💬 Ask me about **javascript, java, c#**
+- 💬 Ask me about **js/ts, java, c#, react**
 
 - 📫 How to reach me **josueb.rangel.montiel@gmail.com**
 
